@@ -3,7 +3,7 @@
 /**
  * delete_nodeint_at_index - Deletes a node in a linked list at a certain index
  * @head: pointer to zeFirst element in the list
- * @index: index of theNode to delete   
+ * @index: index of theNode to delete
  *
  * Return: 1 (Success), or -1 (Fail)
  */

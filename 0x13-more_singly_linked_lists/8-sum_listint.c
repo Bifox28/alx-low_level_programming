@@ -2,7 +2,7 @@
 
 /**
  * sum_listint - calcul of ze sum of all ze data in a listint_t list
- * @head: first node in the Linked list   
+ * @head: first node in the Linked list
  *
  * Return: resulting sum
  */
